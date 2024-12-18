@@ -1,7 +1,7 @@
 # Windows Endpoint Analysis Challenge CTF
 
 <h2>Description</h2>
-In this Windows Endpoint Analysis Cahllenge, I used the commandline queries like netstat and tasklist to find the processid and associated DLL modules of the challenge.exe malware. I also used Autoruns and Task Scheduler to find persistences within the system. 
+In this Windows Endpoint Analysis Challenge, I used the commandline queries like netstat and tasklist to find the processid and associated DLL modules of the challenge.exe malware. I also used Autoruns and Task Scheduler to find persistences within the system. 
 
 <h2>Languages and Utilities Used</h2>
 
